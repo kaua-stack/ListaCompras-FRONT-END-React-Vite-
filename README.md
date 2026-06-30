@@ -1,16 +1,67 @@
-# React + Vite
+# 🛒 Lista de Compras
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação web desenvolvida com **React** e **Vite** para gerenciar uma lista de compras de forma prática e intuitiva.
 
-Currently, two official plugins are available:
+O projeto permite adicionar, visualizar e remover itens da lista, proporcionando uma experiência simples e eficiente para organização das compras do dia a dia.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Tecnologias Utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Funcionalidades
+
+* ✅ Adicionar novos itens à lista
+* ✅ Exibir todos os itens cadastrados
+* ✅ Remover itens da lista
+* ✅ Interface simples e responsiva
+* ✅ Atualização dinâmica utilizando React
+
+---
+
+## 📚 Objetivo
+
+Este projeto foi desenvolvido com foco em praticar conceitos fundamentais do React, incluindo:
+
+* Componentização
+* Props
+* Estado (State)
+* Eventos
+* Renderização dinâmica
+* Manipulação de listas
+* Organização de componentes
+
+---
+
+## 💻 Aprendizados
+
+Durante o desenvolvimento foram praticados conceitos importantes como:
+
+* Criação de componentes reutilizáveis
+* Manipulação de estados com Hooks
+* Comunicação entre componentes
+* Atualização da interface em tempo real
+* Organização de projetos React
+* Utilização do Vite para desenvolvimento moderno
+
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+**Kauã Souza**
+
+Desenvolvedor Full Stack apaixonado por tecnologia, desenvolvimento web e criação de aplicações modernas utilizando React, Node.js e JavaScript.
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido para fins de estudo, prática e evolução profissional.
